@@ -1,3 +1,4 @@
+#include "node.h"
 #include "profile.h"
 #include "profile_node.h"
 

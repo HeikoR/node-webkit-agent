@@ -1,3 +1,4 @@
+#include "node.h"
 #include "profile_node.h"
 
 using namespace v8;

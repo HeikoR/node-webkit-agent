@@ -1,5 +1,5 @@
-#include "snapshot.h"
 #include "node.h"
+#include "snapshot.h"
 #include "node_buffer.h"
 
 using namespace v8;

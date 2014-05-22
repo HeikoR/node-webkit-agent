@@ -1,3 +1,4 @@
+#include "node.h"
 #include "heap_profiler.h"
 #include "cpu_profiler.h"
 
